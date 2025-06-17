@@ -9,16 +9,15 @@ string = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb
 key = "little"
 
 def word_count (string, key):
-    words = string.lower().replace(",", "").replace(".", "")split()
+    words = string.lower().replace(",", "").replace(".", "").split()
     Dict = {}
 
     print(words)
     for word in words:
-        Dict[word] = word_count.get(word, 0) + 1
+        Dict[word] = Dict.get(word, 0) + 1
       # Dict[word] stores the updated count back into the dictionary using square brackets.
       #.get function is used to check if a specific attribute exists in a dictionary.
     
-  
     print(f'Total count of the word {key} in the string is: {Dict[key]}')
 
     #return Dict #retrieves the total count for all words in the string
