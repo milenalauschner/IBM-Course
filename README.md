@@ -7,7 +7,7 @@ The course is divided into 5 Modules:
 
 1. 
 2.
-3. Conditions, Loops, Functions, Exception Handling, Objects, and Classes
+3. Conditions, Braching, Loops, Functions, Exception Handling, Objects, and Classes
 4.
 5.
 
