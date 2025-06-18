@@ -13,4 +13,6 @@ The course is divided into 5 Modules:
 
 Each module has Hands-On exercises with challenges and quizzes.
 
+In the Jupyter Notebook files you can se how I solved the course challenges and how I work in problem solving scenarios.
+
 
