@@ -6,8 +6,8 @@ from Module4.Module4 import cleanFiles, genFiles
 class TestCleanFiles(unittest.TestCase):
 
     def setUp(self):
-        self.testWrite = "Module4/UnitTest/testWrite.txt"
-        self.testAppend = "Module4/UnitTest/testAppend.txt"
+        self.testWrite = "testWrite.txt"
+        self.testAppend = "testAppend.txt"
         genFiles(self.testWrite, self.testAppend)
 
     def test_clean_files(self):
