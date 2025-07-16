@@ -1,4 +1,4 @@
-# What is it about
+# Repository Purpose and Structure
 
 This repository is designed to showcase the knowledge acquired while completing the "Python for Data Science, AI & Development" course from IBM on Coursera.
 
